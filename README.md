@@ -1,3 +1,26 @@
+## rslidar_msg (kilted) - 0.0.0-1
+
+The packages in the `rslidar_msg` repository were released into the `kilted` distro by running `/usr/bin/bloom-release rslidar_msg -y --rosdistro kilted` on `Wed, 05 Nov 2025 15:18:08 -0000`
+
+The `rslidar_msg` package was released.
+
+Version of package(s) in repository `rslidar_msg`:
+
+- upstream repository: https://github.com/RoboSense-LiDAR/rslidar_msg.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rslidar_msg (jazzy) - 0.0.0-1
 
 The packages in the `rslidar_msg` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy rslidar_msg` on `Fri, 26 Jul 2024 13:57:21 -0000`
