@@ -108,4 +108,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/RoboSense-LiDAR/rslidar_msg.git
-    version: :{auto}
+    version: 0.0.0
+    version_saved: :{auto}
